@@ -1,0 +1,9 @@
+npm i express mustache-express dotenv
+npm i --save-dev @types/express @types/mustache-express @types/node
+
+ter instalado o 
+nodemon
+typescript
+ts-node
+
+npm i -g typescript nodemon ts-node
